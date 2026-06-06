@@ -113,8 +113,9 @@ Este proyecto utilizó **Claude (Anthropic)** como asistente técnico para la ge
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Autores
 
-**Maribel Ramírez**  
+**Maribel Ramírez Gaviria**  
+**Jaider Andres Cataño Ospina**  
 Curso III — Análisis de Datos  
 Junio 2026
